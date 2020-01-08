@@ -1,19 +1,11 @@
-## Welcome to GitHub Pages
+##About me
+I am Lingyu Hua, and I am currently pursuing master's degree in Computer Science & Technology in Beijing Institute of Technology.
 
-You can use the [editor on GitHub](https://github.com/lynette-hua/lynette-hua.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Eduaction Background
+Sep. 2019 - Present, M.Sc., Beijing Institute of Technology, School of Computer Science. Sep. 2015 - July 2019, B.Eng., China Agricultural University, College of Information and Electrical Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+##Research Interests
+Currently, I mainly focus on Natural Language processing and Information Retrieval.
 
 - Bulleted
 - List
@@ -21,17 +13,5 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lynette-hua/lynette-hua.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](IMG_PITU_20180717_215508.jpg)
